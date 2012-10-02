@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>5by5 Master Audio Feed</title>
+    <link>http://5by5.tv/</link>
+    <pubDate>Mon, 01 Oct 2012 16:30:00 GMT</pubDate>
+    <description>5by5 - All Audio Broadcasts</description>
+    <language>en-us</language>
+    <itunes:subtitle>5by5 - All Audio Broadcasts</itunes:subtitle>
+    <itunes:author>5by5 and Dan Benjamin</itunes:author>
+    <itunes:summary>5by5 is an internet broadcast studio making podcasts for people like you.</itunes:summary>
+    <itunes:image href="http://5by5.tv/assets/5by5-itunes.jpg" />
+    <itunes:keywords>5by5, 5x5, 5 by 5, five by five</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>5by5 Studios and Dan Benjamin</itunes:name>
+      <itunes:email>itunes@5by5.tv</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News" />
+    </itunes:category>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/5by5" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="5by5" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+      <title>Build and Analyze 97: Grapefruits Everywhere</title>
+      <link>http://5by5.tv/buildanalyze/97</link>
+      <guid>http://5by5.tv/buildanalyze/97</guid>
+      <pubDate>Mon, 01 Oct 2012 16:30:00 GMT</pubDate>
+      <author>Marco Arment &amp; Dan Benjamin</author>
+      <description>Dan and Marco discuss Nests, Mac App Store review times, iOS 6 upgrades, non-Retina support, managing servers for app back-ends, and whether perpetual app maintenance is necessary.
+</description>
+      <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/buildanalyze/2012/buildanalyze-097.mp3" length="36298457" type="audio/mpeg" />
+      <content:encoded>&lt;p&gt;Dan and Marco discuss Nests, Mac App Store review times, iOS 6 upgrades, non-Retina support, managing servers for app back-ends, and whether perpetual app maintenance is necessary.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://reviewtimes.shinydevelopment.com/" class="link" rel="nofollow" target="_blank"&gt;Average App Store Review Times&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://itunes.apple.com/us/app/5by5-radio/id553498407?mt=12&amp;amp;partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A" class="link" rel="nofollow" target="_blank"&gt;Mac App Store - 5by5 Radio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sponsored by &lt;a href="http://shutterstock.com"&gt;Shutterstock&lt;/a&gt; (use code DANSENTME10 for 30% off any package), &lt;a href="http://squarespace.com/5by5"&gt;Squarespace&lt;/a&gt; (use code DANSENTME10 for 10% off), &lt;a href="http://shopify.com/5by5"&gt;Shopify&lt;/a&gt; (three months free on signup), and &lt;a href="http://cachefly.com"&gt;CacheFly&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+      <itunes:author>Marco Arment &amp; Dan Benjamin</itunes:author>
+      <itunes:duration>1:15:03</itunes:duration>
+      <itunes:subtitle>Dan and Marco discuss Nests, Mac App Store review times, iOS 6 upgrades, non-Retina support, managing servers for app back-ends, and whether perpetual app maintenance is necessary.</itunes:subtitle>
+      <itunes:summary>Dan and Marco discuss Nests, Mac App Store review times, iOS 6 upgrades, non-Retina support, managing servers for app back-ends, and whether perpetual app maintenance is necessary.
+</itunes:summary>
+      <itunes:keywords>iphone, ipad, ios, android, mobile, web, development, apple</itunes:keywords>
+      <itunes:image href="http://icebox.5by5.tv/images/broadcasts/14/cover.jpg" />
+      <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fbuildanalyze%2F97&amp;user_id=danbenjamin" />
+    </item>
+    <item>
+      <title>Mac Power Users 105: Workflows With Music Video Director Greg Jardin</title>
+      <link>http://5by5.tv/mpu/105</link>
+      <guid>http://5by5.tv/mpu/105</guid>
+      <pubDate>Mon, 01 Oct 2012 02:30:00 GMT</pubDate>
+      <author>David Sparks &amp; Katie Floyd</author>
+      <description>Greg Jardin joins Katie and David to explain how he uses his Mac to direct and produce music videos.
+</description>
+      <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/mpu/2012/mpu-105.mp3" length="33139104" type="audio/mpeg" />
+      <content:encoded>&lt;p&gt;Greg Jardin joins Katie and David to explain how he uses his Mac to direct and produce music videos.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.gregjardin.com" class="link" rel="nofollow" target="_blank"&gt;Greg Jardin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/gregjardin" class="link" rel="nofollow" target="_blank"&gt;Greg on Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.jellybelly.com/art_gallery/bean_art_gallery.aspx" class="link" rel="nofollow" target="_blank"&gt;Jelly Belly Art&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=IOu0DuxFAT0&amp;amp;feature=youtu.be" class="link" rel="nofollow" target="_blank"&gt;Kina Grannis &amp;quot;In Your Arms&amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=cIH4MJAC2Tg" class="link" rel="nofollow" target="_blank"&gt;The Making of &amp;quot;In Your Arms&amp;quot;.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.dragonframe.com/" class="link" rel="nofollow" target="_blank"&gt;Dragon Fram Stop Motion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://vimeo.com/22829555" class="link" rel="nofollow" target="_blank"&gt;Earth Hour Commercial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.adobe.com/products/creativesuite.html" class="link" rel="nofollow" target="_blank"&gt;Adobe Creative Suite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.apple.com/finalcutpro/" class="link" rel="nofollow" target="_blank"&gt;Final Cut Pro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.redgiantsoftware.com/products/all/trapcode-suite/" class="link" rel="nofollow" target="_blank"&gt;Trapcode Suite Creative Suite Plugins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.adobe.com/products/audition.html" class="link" rel="nofollow" target="_blank"&gt;Adobe Auditions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=2WhlcwcznSo&amp;amp;feature=youtu.be" class="link" rel="nofollow" target="_blank"&gt;Greg's Video for Joey Ramone - New York City&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Please support our sponsors:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;1Password
+&lt;a href="https://agilebits.com/store?d=MacPowerUsers"&gt;Have you ever forgotten a password? Now you don't have to worry about that anymore. &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pixelmator
+&lt;a href="http://www.pixelmator.com/"&gt; Beautifully designed, easy-to-use, fast and powerful image editing app for Mac OS X&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Drobo
+&lt;a href="http://www.drobo.com"&gt;Redefine your personal storage.&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+      <itunes:author>David Sparks &amp; Katie Floyd</itunes:author>
+      <itunes:duration>1:08:27</itunes:duration>
+      <itunes:subtitle>Greg Jardin joins Katie and David to explain how he uses his Mac to direct and produce music videos. The discussion dives deep on stop motion workflows, applications, and tools.</itunes:subtitle>
+      <itunes:summary>Greg Jardin joins Katie and David to explain how he uses his Mac to direct and produce music videos.
+</itunes:summary>
+      <itunes:keywords>mac, apple, power user, productivity, workflows</itunes:keywords>
+      <itunes:image href="http://icebox.5by5.tv/images/broadcasts/25/cover.jpg" />
+      <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fmpu%2F105&amp;user_id=danbenjamin" />
+    </item>
+    <item>
+      <title>The Incomparable 109: Evil, Surfing Ronald McDonald</title>
+      <link>http://5by5.tv/incomparable/109</link>
+      <guid>http://5by5.tv/incomparable/109</guid>
+      <pubDate>Sun, 30 Sep 2012 05:30:00 GMT</pubDate>
+      <author>Jason Snell</author>
+      <description>Soon to be a major motion picture you probably shouldn't see, David Mitchell's 2004 novel "Cloud Atlas" is in our sights. This novel consists of six separate stories set in different genres and timeframes from the 1850s to a post-apocalyptic future, and yet they're all interlinked. Somehow. It's fun, weird, and challenging, but what does it all mean? Read it now before every character in it becomes Tom Hanks and Halle Berry.
+</description>
+      <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/incomparable/2012/incomparable-109.mp3" length="33341783" type="audio/mpeg" />
+      <content:encoded>&lt;p&gt;Soon to be a major motion picture you probably shouldn't see, David Mitchell's 2004 novel "Cloud Atlas" is in our sights. This novel consists of six separate stories set in different genres and timeframes from the 1850s to a post-apocalyptic future, and yet they're all interlinked. Somehow. It's fun, weird, and challenging, but what does it all mean? Read it now before every character in it becomes Tom Hanks and Halle Berry.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://amzn.to/Ss5HDJ" class="link" rel="nofollow" target="_blank"&gt;&amp;quot;Cloud Atlas&amp;quot; on Amazon.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://trailers.apple.com/trailers/wb/cloudatlas/" class="link" rel="nofollow" target="_blank"&gt;&amp;quot;Cloud Atlas&amp;quot; movie trailer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content:encoded>
+      <itunes:author>Jason Snell</itunes:author>
+      <itunes:duration>1:08:52</itunes:duration>
+      <itunes:subtitle>David Mitchell's 2004 novel "Cloud Atlas."</itunes:subtitle>
+      <itunes:summary>Soon to be a major motion picture you probably shouldn't see, David Mitchell's 2004 novel "Cloud Atlas" is in our sights. This novel consists of six separate stories set in different genres and timeframes from the 1850s to a post-apocalyptic future, and yet they're all interlinked. Somehow. It's fun, weird, and challenging, but what does it all mean? Read it now before every character in it becomes Tom Hanks and Halle Berry.
+</itunes:summary>
+      <itunes:keywords>books, movies, tv, comics, sci-fi, geek</itunes:keywords>
+      <itunes:image href="http://icebox.5by5.tv/images/broadcasts/30/cover.jpg" />
+      <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fincomparable%2F109&amp;user_id=danbenjamin" />
+    </item>
+    <item>
+      <title>The Nickel 30: Here's The Pitch</title>
+      <link>http://5by5.tv/nickel/30</link>
+      <guid>http://5by5.tv/nickel/30</guid>
+      <pubDate>Fri, 28 Sep 2012 21:00:00 GMT</pubDate>
+      <author>Will Carroll</author>
+      <description>Will and Scott don't ignore football, bringing back the refs, or the zeitgeist of sports, but they are going baseball heavy this week as MLB goes into its final week. We check out the playoff picture with Rob Neyer of SB Nation and Ian Casselberry of Bleacher Report. Don't swing and miss as The Nickel makes it's pitch.
+</description>
+      <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/nickel/2012/nickel-030.mp3" length="29445297" type="audio/mpeg" />
+      <content:encoded>&lt;p&gt;Will and Scott don't ignore football, bringing back the refs, or the zeitgeist of sports, but they are going baseball heavy this week as MLB goes into its final week. We check out the playoff picture with Rob Neyer of SB Nation and Ian Casselberry of Bleacher Report. Don't swing and miss as The Nickel makes it's pitch.&lt;/p&gt;
+</content:encoded>
+      <itunes:author>Will Carroll</itunes:author>
+      <itunes:duration>60:21</itunes:duration>
+      <itunes:subtitle>Will and Scott don't ignore football or bringing back the refs, but they are going baseball heavy this week with MLB's final week. Rob Neyer of SB Nation and Ian Casselberry of Bleacher Report join to check the playoff picture.</itunes:subtitle>
+      <itunes:summary>Will and Scott don't ignore football, bringing back the refs, or the zeitgeist of sports, but they are going baseball heavy this week as MLB goes into its final week. We check out the playoff picture with Rob Neyer of SB Nation and Ian Casselberry of Bleacher Report. Don't swing and miss as The Nickel makes it's pitch.
+</itunes:summary>
+      <itunes:keywords>sports, football, baseball, basketball, hockey, nfl, mlb, nba</itunes:keywords>
+      <itunes:image href="http://icebox.5by5.tv/images/broadcasts/33/cover.jpg" />
+      <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fnickel%2F30&amp;user_id=danbenjamin" />
+    </item>
+    <item>
+      <title>The Critical Path 56: Strategic Disadvantages: A discussion with James Allworth</title>
+      <link>http://5by5.tv/criticalpath/56</link>
+      <guid>http://5by5.tv/criticalpath/56</guid>
+      <pubDate>Fri, 28 Sep 2012 19:45:00 GMT</pubDate>
+      <author>Horace Dediu &amp; Dan Benjamin</author>
+      <description>James Allworth, Harvard Business School Forum for Growth and Innovation fellow and co-author of How Will You Measure Your Life joins Horace for an in-depth discussion of the vulnerability of Apple to low-end disruption. Specifically, assuming the iPhone reaches a point of over-service, did Apple arm its suppliers with the means to create its replacement? We dip into case studies of Dell, HP, HTC and Microsoft and touch on how iPod escaped this fate.
+</description>
+      <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/criticalpath/2012/criticalpath-056.mp3" length="33167621" type="audio/mpeg" />
+      <content:encoded>&lt;p&gt;James Allworth, Harvard Business School Forum for Growth and Innovation fellow and co-author of How Will You Measure Your Life joins Horace for an in-depth discussion of the vulnerability of Apple to low-end disruption. Specifically, assuming the iPhone reaches a point of over-service, did Apple arm its suppliers with the means to create its replacement? We dip into case studies of Dell, HP, HTC and Microsoft and touch on how iPod escaped this fate.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://blogs.hbr.org/cs/2012/08/who_cares_if_samsung_copied_ap.html" class="link" rel="nofollow" target="_blank"&gt;What is Apple's real Strategic Advantage?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://daringfireball.net/2011/09/new_apple_advantage" class="link" rel="nofollow" target="_blank"&gt;John Gruber's &amp;quot;The New Apple Advantage&amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sponsored by &lt;a href="http://igloosoftware.com/5by5"&gt;Igloo Software&lt;/a&gt;, &lt;a href="http://getharvest.com/5by5"&gt;Harvest&lt;/a&gt; (use code 5by5 for 50% off first month), &lt;a href="http://gazelle.com/"&gt;Gazelle&lt;/a&gt;, and &lt;a href="http://mailchimp.com/5by5"&gt;MailChimp&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+      <itunes:author>Horace Dediu &amp; Dan Benjamin</itunes:author>
+      <itunes:duration>1:08:23</itunes:duration>
+      <itunes:subtitle>James Allworth, Harvard Business School Forum for Growth and Innovation fellow and co-author of How Will You Measure Your Life joins Horace for an in-depth discussion of the vulnerability of Apple to low-end disruption</itunes:subtitle>
+      <itunes:summary>James Allworth, Harvard Business School Forum for Growth and Innovation fellow and co-author of How Will You Measure Your Life joins Horace for an in-depth discussion of the vulnerability of Apple to low-end disruption. Specifically, assuming the iPhone reaches a point of over-service, did Apple arm its suppliers with the means to create its replacement? We dip into case studies of Dell, HP, HTC and Microsoft and touch on how iPod escaped this fate.
+</itunes:summary>
+      <itunes:keywords>mobile, apple, iphone, ipad, ios, rim, blackberry, nokia, android, google</itunes:keywords>
+      <itunes:image href="http://icebox.5by5.tv/images/broadcasts/24/cover.jpg" />
+      <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fcriticalpath%2F56&amp;user_id=danbenjamin" />
+    </item>
+    <item>
+      <title>Hypercritical 87: Smarter and Harder</title>
+      <link>http://5by5.tv/hypercritical/87</link>
+      <guid>http://5by5.tv/hypercritical/87</guid>
+      <pubDate>Fri, 28 Sep 2012 19:15:00 GMT</pubDate>
+      <author>John Siracusa &amp; Dan Benjamin</author>
+      <description>John Siracusa and Dan Benjamin follow up on Apple's slippery little devices and Apple's mapping woes, then discuss the new iPod touch and iPod nano.  John's hypothetical Ferrari is briefly mentioned.
+</description>
+      <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/hypercritical/2012/hypercritical-087.mp3" length="43934673" type="audio/mpeg" />
+      <content:encoded>&lt;p&gt;John Siracusa and Dan Benjamin follow up on Apple's slippery little devices and Apple's mapping woes, then discuss the new iPod touch and iPod nano.  John's hypothetical Ferrari is briefly mentioned.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.ifixit.com/Teardown/iPhone-5-Teardown/10525/3#s38316" class="link" rel="nofollow" target="_blank"&gt;iPhone 5 Teardown, connector portion - iFixit.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://guide-images.ifixit.net/igi/6wSwQDSxsENkhPXC.huge" class="link" rel="nofollow" target="_blank"&gt;Lightning connector, disassembled - iFixit.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/exec/obidos/ASIN/B004X5XVL8/5by5-20" class="link" rel="nofollow" target="_blank"&gt;Acer AZ3731-UR21P, with PS/2 ports - Amazon.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://dl.dropbox.com/u/1564033/IMG_0294.jpg" class="link" rel="nofollow" target="_blank"&gt;Close-up picture of those Acer PS/2 ports&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/PC_99#Color-coding_scheme_for_connectors_and_ports" class="link" rel="nofollow" target="_blank"&gt;PC System Design Guide - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://cl.ly/image/0Q2y3r1n073b" class="link" rel="nofollow" target="_blank"&gt;iPhone 5 wall charger vs. earlier model&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/hotdogsladies/status/251725818760421376" class="link" rel="nofollow" target="_blank"&gt;Merlin's Tweet: &amp;quot;He USED to have a web site…&amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/hotdogsladies/status/251725759742361601" class="link" rel="nofollow" target="_blank"&gt;Merlin's Tweet: &amp;quot;You’re dead to me, Dan. DEAD.&amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.kungfugrippe.com/post/32346212930/speaking-for-yourself" class="link" rel="nofollow" target="_blank"&gt;Speaking for Yourself - Merlin Mann&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.apple.com/letter-from-tim-cook-on-maps/" class="link" rel="nofollow" target="_blank"&gt;A letter from Tim Cook on Maps - Apple.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.theatlantic.com/technology/archive/12/09/how-google-builds-its-maps-and-what-it-means-for-the-future-of-well-everything/261913/" class="link" rel="nofollow" target="_blank"&gt;How Google Builds Its Maps—and What It Means for the Future of Everything - The Atlantic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.apple.com/ipod-touch/" class="link" rel="nofollow" target="_blank"&gt;iPod touch - Apple.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.apple.com/ipod-nano/" class="link" rel="nofollow" target="_blank"&gt;iPod nano - Apple.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sponsored by &lt;a href="http://igloosoftware.com/5by5"&gt;Igloo Software&lt;/a&gt;, &lt;a href="http://getharvest.com/5by5"&gt;Harvest&lt;/a&gt; (use code 5by5 for 50% off first month), &lt;a href="http://gazelle.com/"&gt;Gazelle&lt;/a&gt;, and &lt;a href="http://mailchimp.com/5by5"&gt;MailChimp&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+      <itunes:author>John Siracusa &amp; Dan Benjamin</itunes:author>
+      <itunes:duration>1:30:58</itunes:duration>
+      <itunes:subtitle>John Siracusa and Dan Benjamin follow up on Apple's slippery little devices and Apple's mapping woes, then discuss the new iPod touch and iPod nano.  John's hypothetical Ferrari is briefly mentioned.</itunes:subtitle>
+      <itunes:summary>John Siracusa and Dan Benjamin follow up on Apple's slippery little devices and Apple's mapping woes, then discuss the new iPod touch and iPod nano.  John's hypothetical Ferrari is briefly mentioned.
+</itunes:summary>
+      <itunes:keywords>siracusa, ars technica, tech, geek, apple, mac, sci-fi</itunes:keywords>
+      <itunes:image href="http://icebox.5by5.tv/images/broadcasts/18/cover.jpg" />
+      <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fhypercritical%2F87&amp;user_id=danbenjamin" />
+    </item>
+    <item>
+      <title>Screen Time 7: The Genre of "Looper" (with director Rian Johnson)</title>
+      <link>http://5by5.tv/screentime/7</link>
+      <guid>http://5by5.tv/screentime/7</guid>
+      <pubDate>Fri, 28 Sep 2012 18:30:00 GMT</pubDate>
+      <author>Moisés Chiullan</author>
+      <description>Moisés interviews Looper director Rian Johnson, gives his initial reactions to Cloud Atlas (from the directors of The Matrix trilogy), and covers the week's home video releases, including Bond 50, David Fincher's The Game, and The Dark Knight Returns Part 1. The spoiler-free Rian Johnson interview starts at around 24:30 in case you'd like to skip ahead. A spoiler-laden After Dark will be posted later this weekend with massive spoiler warnings.
+</description>
+      <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/screentime/2012/screentime-007.mp3" length="29317115" type="audio/mpeg" />
+      <content:encoded>&lt;p&gt;Moisés interviews Looper director Rian Johnson, gives his initial reactions to Cloud Atlas (from the directors of The Matrix trilogy), and covers the week's home video releases, including Bond 50, David Fincher's The Game, and The Dark Knight Returns Part 1. The spoiler-free Rian Johnson interview starts at around 24:30 in case you'd like to skip ahead. A spoiler-laden After Dark will be posted later this weekend with massive spoiler warnings.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.imdb.com/name/nm0426059/" class="link" rel="nofollow" target="_blank"&gt;Rian Johnson - IMDb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://itunes.apple.com/us/movie/brick/id360543376?partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&amp;amp;partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A" class="link" rel="nofollow" target="_blank"&gt;Brick | iTunes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://trailers.apple.com/trailers/summit/thebrothersbloom/" class="link" rel="nofollow" target="_blank"&gt;Apple - Trailers - The Brothers Bloom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=BH0BNbwqNK8" class="link" rel="nofollow" target="_blank"&gt;Back to the Future 25th Anniversary Edition - Own it 10/26 on Blu-ray &amp;amp; DVD - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=vrzI3lVzQnM" class="link" rel="nofollow" target="_blank"&gt;Timecrimes Trailer HD - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=4CC60HJvZRE" class="link" rel="nofollow" target="_blank"&gt;Primer Trailer - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/movie?v=TvZpHTR8Lhs&amp;amp;feature=mv_sr" class="link" rel="nofollow" target="_blank"&gt;12 Monkeys - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=tgC7Eh355E4" class="link" rel="nofollow" target="_blank"&gt;Critics' Picks - Critics Picks: La Jetee - nytimes.com/video - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.criterion.com/boxsets/77-la-jetee-sans-soleil" class="link" rel="nofollow" target="_blank"&gt;La Jetée/Sans Soleil - The Criterion Collection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=SWdPmapuOd4" class="link" rel="nofollow" target="_blank"&gt;Shane (1953) - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=WI2AZb04HAc" class="link" rel="nofollow" target="_blank"&gt;The Searchers - trailer - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Anthony_Mann" class="link" rel="nofollow" target="_blank"&gt;Anthony Mann - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://sensesofcinema.com/2003/great-directors/mann_anthony/" class="link" rel="nofollow" target="_blank"&gt;Anthony Mann | Senses of Cinema&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=DY3XnCyKAEU" class="link" rel="nofollow" target="_blank"&gt;WITNESS - Trailer - (1985) - HQ - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=YiVOwxsa4OM" class="link" rel="nofollow" target="_blank"&gt;Raging Bull Trailer - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=hpGWdLNWvYE" class="link" rel="nofollow" target="_blank"&gt;La Strada (HD Trailer) - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.criterion.com/films/185-la-strada" class="link" rel="nofollow" target="_blank"&gt;La strada (1954) - The Criterion Collection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.criterion.com/explore/37-rian-johnson-s-top-10" class="link" rel="nofollow" target="_blank"&gt;Rian Johnson’s Top 10 - Explore - The Criterion Collection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.hulu.com/watch/215917" class="link" rel="nofollow" target="_blank"&gt;Watch La Jetée online | Free | Hulu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.guardian.co.uk/film/2012/jul/30/chris-marker" class="link" rel="nofollow" target="_blank"&gt;Chris Marker obituary | Film | The Guardian&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=4Wh2b1eZFUM" class="link" rel="nofollow" target="_blank"&gt;Brazil(1985) Trailer - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=M7d9VpSdGhA" class="link" rel="nofollow" target="_blank"&gt;The Third Man Trailer - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=g2QHU6j3kOw" class="link" rel="nofollow" target="_blank"&gt;Criterion Trailer 319: The Bad Sleep Well - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://movies.netflix.com/WiMovie/Primer/60034782?locale=en-US" class="link" rel="nofollow" target="_blank"&gt;Watch Primer Online | Netflix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.laweekly.com/2012-04-12/film-tv/35-mm-film-digital-Hollywood/" class="link" rel="nofollow" target="_blank"&gt;Movie Studios Are Forcing Hollywood to Abandon 35mm Film. But the Consequences of Going Digital Are Vast, and Troubling - Page 1 - Film+TV - Los Angeles - LA Weekly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://arstechnica.com/gadgets/2012/06/the-silver-screen-no-more-distribution-of-film-to-cease-by-2013-in-the-us/" class="link" rel="nofollow" target="_blank"&gt;Celluloid no more: distribution of film to cease by 2013 in the US | Ars Technica&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blogs.suntimes.com/ebert/2011/11/the_sudden_death_of_film.html" class="link" rel="nofollow" target="_blank"&gt;The sudden death of film - Roger Ebert's Journal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://rcjohnso.tumblr.com/post/24693276556/some-thoughts-on-3d" class="link" rel="nofollow" target="_blank"&gt;rcjohnso - Some Thoughts On 3D&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=fJ1O1vb9AUU" class="link" rel="nofollow" target="_blank"&gt;The Master - Official Trailer (2012) [HD] - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sponsored by &lt;a href="http://igloosoftware.com/5by5"&gt;Igloo Software&lt;/a&gt;, &lt;a href="http://getharvest.com/5by5"&gt;Harvest&lt;/a&gt; (use code 5by5 for 50% off first month), &lt;a href="http://gazelle.com/"&gt;Gazelle&lt;/a&gt;, and &lt;a href="http://mailchimp.com/5by5"&gt;MailChimp&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+      <itunes:author>Moisés Chiullan</itunes:author>
+      <itunes:duration>60:22</itunes:duration>
+      <itunes:subtitle>Moisés interviews Looper director Rian Johnson, gives his initial reactions to Cloud Atlas (from the directors of The Matrix trilogy), and covers the week's home video releases.</itunes:subtitle>
+      <itunes:summary>Moisés interviews Looper director Rian Johnson, gives his initial reactions to Cloud Atlas (from the directors of The Matrix trilogy), and covers the week's home video releases, including Bond 50, David Fincher's The Game, and The Dark Knight Returns Part 1. The spoiler-free Rian Johnson interview starts at around 24:30 in case you'd like to skip ahead. A spoiler-laden After Dark will be posted later this weekend with massive spoiler warnings.
+</itunes:summary>
+      <itunes:keywords>movies, TV, media, games, HD, entertainment</itunes:keywords>
+      <itunes:image href="http://icebox.5by5.tv/images/broadcasts/40/cover.jpg" />
+      <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fscreentime%2F7&amp;user_id=danbenjamin" />
+    </item>
+    <item>
+      <title>Geek Friday 43: I Have Really Fast Thumbs</title>
+      <link>http://5by5.tv/geekfriday/43</link>
+      <guid>http://5by5.tv/geekfriday/43</guid>
+      <pubDate>Fri, 28 Sep 2012 16:00:00 GMT</pubDate>
+      <author>Faith Korpi &amp; Jason Seifer</author>
+      <description>In this episode, Jason reviews the iPhone 5 and Faith has more random musings.
+</description>
+      <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/geekfriday/2012/geekfriday-043.mp3" length="27906578" type="audio/mpeg" />
+      <content:encoded>&lt;p&gt;In this episode, Jason reviews the iPhone 5 and Faith has more random musings.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://totalspaces.binaryage.com/" class="link" rel="nofollow" target="_blank"&gt;TotalSpaces app brings back grid Spaces to OS X Lion and more!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://gawker.com/5946679/youre-all-paying-too-much-for-your-stupid-phones" class="link" rel="nofollow" target="_blank"&gt;You're All Paying Too Much for Your Stupid Phones&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://twitter.github.com/bootstrap/" class="link" rel="nofollow" target="_blank"&gt;Twitter Bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://geekthursday.com/" class="link" rel="nofollow" target="_blank"&gt;Geek Thursday | Geek Thursday is a weekly podcast where Ryan Showman &amp;amp; Michael Poley discuss geeky topics like Video Games, Movies, Apps, Culture, Tech and More. Listen to Geek Thursday and get your news 24 hours before the listeners of that other podcast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.myspace.com/" class="link" rel="nofollow" target="_blank"&gt;Myspace | Social Entertainment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content:encoded>
+      <itunes:author>Faith Korpi &amp; Jason Seifer</itunes:author>
+      <itunes:duration>46:01</itunes:duration>
+      <itunes:subtitle>In this episode, Jason reviews the iPhone 5 and Faith has more random musings.</itunes:subtitle>
+      <itunes:summary>In this episode, Jason reviews the iPhone 5 and Faith has more random musings.
+</itunes:summary>
+      <itunes:keywords>technology, tech, geek, tv, movies, comics, music, gear</itunes:keywords>
+      <itunes:image href="http://icebox.5by5.tv/images/broadcasts/29/cover.jpg" />
+      <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fgeekfriday%2F43&amp;user_id=danbenjamin" />
+    </item>
+    <item>
+      <title>The Comic Shack 17: Comic Book Video Games</title>
+      <link>http://5by5.tv/comicshack/17</link>
+      <guid>http://5by5.tv/comicshack/17</guid>
+      <pubDate>Fri, 28 Sep 2012 01:45:00 GMT</pubDate>
+      <author>Jim Metzendorf</author>
+      <description>Jim Metzendorf is joined in studio by two of his friends, David Moore and Steve Johnson, to talk about comic book inspired video games.
+</description>
+      <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/comicshack/2012/comicshack-017.mp3" length="28356721" type="audio/mpeg" />
+      <content:encoded>&lt;p&gt;Jim Metzendorf is joined in studio by two of his friends, David Moore and Steve Johnson, to talk about comic book inspired video games.&lt;/p&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://igloosoftware.com/5by5"&gt;Igloo Software&lt;/a&gt;, &lt;a href="http://getharvest.com/5by5"&gt;Harvest&lt;/a&gt; (use code 5by5 for 50% off first month), &lt;a href="http://gazelle.com/"&gt;Gazelle&lt;/a&gt;, and &lt;a href="http://mailchimp.com/5by5"&gt;MailChimp&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+      <itunes:author>Jim Metzendorf</itunes:author>
+      <itunes:duration>58:28</itunes:duration>
+      <itunes:subtitle>Jim Metzendorf is joined in studio by two of his friends, David Moore and Steve Johnson, to talk about comic book inspired video games.</itunes:subtitle>
+      <itunes:summary>Jim Metzendorf is joined in studio by two of his friends, David Moore and Steve Johnson, to talk about comic book inspired video games.
+</itunes:summary>
+      <itunes:keywords>comics, art, geek, books</itunes:keywords>
+      <itunes:image href="http://icebox.5by5.tv/images/broadcasts/38/cover.jpg" />
+      <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fcomicshack%2F17&amp;user_id=danbenjamin" />
+    </item>
+    <item>
+      <title>In Beta 17: I've Got LTE All Day</title>
+      <link>http://5by5.tv/inbeta/17</link>
+      <guid>http://5by5.tv/inbeta/17</guid>
+      <pubDate>Thu, 27 Sep 2012 19:30:00 GMT</pubDate>
+      <author>Gina Trapani &amp; Kevin Purdy</author>
+      <description>Kevin and special co-hosts Dan and Haddie talk about the cloud architecture and its deficiencies, Google's need to reclaim Android, and why Buffalo is not Austin.
+</description>
+      <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/inbeta/2012/inbeta-017.mp3" length="25245417" type="audio/mpeg" />
+      <content:encoded>&lt;p&gt;Kevin and special co-hosts Dan and Haddie talk about the cloud architecture and its deficiencies, Google's need to reclaim Android, and why Buffalo is not Austin.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.nytimes.com/2012/09/23/technology/data-centers-waste-vast-amounts-of-energy-belying-industry-image.html?_r=0" class="link" rel="nofollow" target="_blank"&gt;Data Centers Waste Vast Amounts of Energy, Belying Industry Image - NYTimes.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.diegodoval.com/2012/09/23/a-lot-of-lead-bullets-a-response-to-the-new-york-times-article-on-data-center-efficiency/" class="link" rel="nofollow" target="_blank"&gt;a lot of lead bullets: a response to the new york times article on data center efficiency « diego's weblog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.wired.com/business/2012/09/reviews-column-saving-android/" class="link" rel="nofollow" target="_blank"&gt;Saving Android From a Second-Rate Future | Wired Business | Wired.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://5by5.tv/hypercritical/64" class="link" rel="nofollow" target="_blank"&gt;5by5 | Hypercritical #64: You Will Die Instantly!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.ilounge.com/index.php/reviews/entry/apple-iphone-5-16gb-32gb-64gb/P7" class="link" rel="nofollow" target="_blank"&gt;Reviews: Apple iPhone 5 (16GB/32GB/64GB) | iLounge&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="http://getHarvest.com/5by5"&gt;Harvest&lt;/a&gt; (use code 5BY5 for 50% off first month), &lt;a href="http://gazelle.com"&gt;Gazelle&lt;/a&gt;, and &lt;a href="http://mailchimp.com/5by5"&gt;MailChimp&lt;/a&gt;. Bandwidth sponsored by &lt;a href="http://Igloosoftware.com/5by5"&gt;Igloo Software&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+      <itunes:author>Gina Trapani &amp; Kevin Purdy</itunes:author>
+      <itunes:duration>51:52</itunes:duration>
+      <itunes:subtitle>Kevin and special co-hosts Dan and Haddie talk about cloud efficiency and guilt, and Google's need to reclaim the Android brand.</itunes:subtitle>
+      <itunes:summary>Kevin and special co-hosts Dan and Haddie talk about the cloud architecture and its deficiencies, Google's need to reclaim Android, and why Buffalo is not Austin.
+</itunes:summary>
+      <itunes:keywords>web, open source software, oss, tools, mobile, social</itunes:keywords>
+      <itunes:image href="http://icebox.5by5.tv/images/broadcasts/37/cover.jpg" />
+      <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Finbeta%2F17&amp;user_id=danbenjamin" />
+    </item>
+    <item>
+      <title>The B&amp;B Podcast 78: Listener Q&amp;A</title>
+      <link>http://5by5.tv/bb/78</link>
+      <guid>http://5by5.tv/bb/78</guid>
+      <pubDate>Thu, 27 Sep 2012 02:30:00 GMT</pubDate>
+      <author>Ben Brooks &amp; Shawn Blanc</author>
+      <description>Ben and Shawn answer all sorts of techy and nerdy questions from the listeners.
+</description>
+      <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/bb/2012/bb-078.mp3" length="15031525" type="audio/mpeg" />
+      <content:encoded>&lt;p&gt;Ben and Shawn answer all sorts of techy and nerdy questions from the listeners.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.tombihn.com/PROD/TB0103.html" class="link" rel="nofollow" target="_blank"&gt;Smart Alec - Bags for Apple iPad - TOM BIHN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://brooksreview.net/2011/12/backpacks-my-bff/" class="link" rel="nofollow" target="_blank"&gt;Backpacks and Messenger Bags — The Brooks Review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://brooksreview.net/2011/12/sa-pt-ii/" class="link" rel="nofollow" target="_blank"&gt;Smart Alec Review: Part II — The Brooks Review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://brooksreview.net/2012/02/sa-pt-iii/" class="link" rel="nofollow" target="_blank"&gt;Smart Alec Review: Part III — The Brooks Review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://brooksreview.net/2012/05/diaper-bag/" class="link" rel="nofollow" target="_blank"&gt;The Best Diaper Bag — The Brooks Review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.flickr.com/photos/showngo/sets/72157628543101403" class="link" rel="nofollow" target="_blank"&gt;Tom Bihn - a set on Flickr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.hardgraft.com/products/flatpack-heritage" class="link" rel="nofollow" target="_blank"&gt;hard graft / Flat Pack / Heritage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.smilesoftware.com/PDFpenPro/index.html" class="link" rel="nofollow" target="_blank"&gt;PDFpenPro: Mac PDF Editor - Create PDF Forms, PDF Table of Contents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jbrewer.github.com/Responsive-Measure/examples/ethan_responsive_rhythm.html" class="link" rel="nofollow" target="_blank"&gt;Responsive rhythm.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jbrewer.github.com/Responsive-Measure/" class="link" rel="nofollow" target="_blank"&gt;Responsive Measure: A jQuery plugin for responsive typography&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.sweetmarias.com/coffee.central.guatemala.php?source=side" class="link" rel="nofollow" target="_blank"&gt;The Coffees of Guatemala&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content:encoded>
+      <itunes:author>Ben Brooks &amp; Shawn Blanc</itunes:author>
+      <itunes:duration>31:00</itunes:duration>
+      <itunes:subtitle>Ben and Shawn answer all sorts of techy and nerdy questions from the listeners.</itunes:subtitle>
+      <itunes:summary>Ben and Shawn answer all sorts of techy and nerdy questions from the listeners.
+</itunes:summary>
+      <itunes:keywords>technology, apple, gadgets, software, iphone, ipad</itunes:keywords>
+      <itunes:image href="http://icebox.5by5.tv/images/broadcasts/34/cover.jpg" />
+      <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fbb%2F78&amp;user_id=danbenjamin" />
+    </item>
+    <item>
+      <title>Amplified 25: If I Regret It, I Kill It</title>
+      <link>http://5by5.tv/amplified/25</link>
+      <guid>http://5by5.tv/amplified/25</guid>
+      <pubDate>Wed, 26 Sep 2012 21:30:00 GMT</pubDate>
+      <author>Jim Dalrymple &amp; Dan Benjamin</author>
+      <description>Jim Dalrymple and Dan Benjamin discuss the launch of the iPhone 5, its sale success, a redesigned Mac Pro, using an iPhone on the Verizon network, Corning's relationship with Apple, WiFi issues with the iPhone 5, Billie Joe's (of Green Day) breakdown at the IHeartRadio music festival, and buying the right amp.
+</description>
+      <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/amplified/2012/amplified-025.mp3" length="42664771" type="audio/mpeg" />
+      <content:encoded>&lt;p&gt;Jim Dalrymple and Dan Benjamin discuss the launch of the iPhone 5, its sale success, a redesigned Mac Pro, using an iPhone on the Verizon network, Corning's relationship with Apple, WiFi issues with the iPhone 5, Billie Joe's (of Green Day) breakdown at the IHeartRadio music festival, and buying the right amp.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.bgr.com/2012/09/26/iphone-5-launch-analysis-topeka/" class="link" rel="nofollow" target="_blank"&gt;iPhone 5 launch analysis: Sales were 'epic,' not 'disappointing'&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.businessinsider.com/two-charts-spell-out-just-how-disappointing-apples-iphone-5-sales-really-are-2012-9" class="link" rel="nofollow" target="_blank"&gt;Disappointing Apple iPhone 5 Sales—Charts - Business Insider&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.businessinsider.com/iphone-5-opening-weekend-sales-prediction-2012-9" class="link" rel="nofollow" target="_blank"&gt;MUNSTER: Apple Sells 6-10 Million iPhone 5s Opening Weekend - Business Insider&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.loopinsight.com/2012/09/24/apple-sells-more-than-five-million-iphone-5s-on-opening-weekend/" class="link" rel="nofollow" target="_blank"&gt;Apple sells more than five million iPhone 5s on opening weekend&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ipack3d.com/page8/index.php?id=2959698825183484676" class="link" rel="nofollow" target="_blank"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://brooksreview.net/2012/09/vz-switch/" class="link" rel="nofollow" target="_blank"&gt;About Switching to Verizon — The Brooks Review&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bigstory.ap.org/article/verizon-says-iphone-5-wont-be-relocked" class="link" rel="nofollow" target="_blank"&gt;Verizon says iPhone 5 won't be 'relocked'&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.wired.com/wiredscience/2012/09/ff-corning-gorilla-glass/all/" class="link" rel="nofollow" target="_blank"&gt;Glass Works: How Corning Created the Ultrathin, Ultrastrong Material of the Future | Wired Science | Wired.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://discussions.apple.com/thread/4322714?start=645&amp;amp;tstart=0" class="link" rel="nofollow" target="_blank"&gt;iPhone 5 wifi issues: Apple Support Communities&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://laughingsquid.com/green-days-billie-joe-smashes-his-guitar-onstage-in-a-fit-of-rage/" class="link" rel="nofollow" target="_blank"&gt;Green Day’s Billie Joe Smashes His Guitar Onstage in a Fit of Rage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.orangeamps.com/tiny-terror-series/" class="link" rel="nofollow" target="_blank"&gt;Tiny Terror Series « Orange Amps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sponsored by &lt;a href="http://igloosoftware.com/5by5"&gt;Igloo Software&lt;/a&gt;, &lt;a href="http://getharvest.com/5by5"&gt;Harvest&lt;/a&gt; (use code 5by5 for 50% off first month), &lt;a href="http://gazelle.com/"&gt;Gazelle&lt;/a&gt;, and &lt;a href="http://mailchimp.com/5by5"&gt;MailChimp&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+      <itunes:author>Jim Dalrymple &amp; Dan Benjamin</itunes:author>
+      <itunes:duration>1:28:01</itunes:duration>
+      <itunes:subtitle>Jim Dalrymple and Dan Benjamin discuss the launch of the iPhone 5, using an iPhone on the Verizon network, Corning's relationship with Apple, WiFi issues with the iPhone 5, Billie Joe's (of Green Day) breakdown, and buying the right amp.</itunes:subtitle>
+      <itunes:summary>Jim Dalrymple and Dan Benjamin discuss the launch of the iPhone 5, its sale success, a redesigned Mac Pro, using an iPhone on the Verizon network, Corning's relationship with Apple, WiFi issues with the iPhone 5, Billie Joe's (of Green Day) breakdown at the IHeartRadio music festival, and buying the right amp.
+</itunes:summary>
+      <itunes:keywords>apple, mac, ipad, iphone, ios, guitars, music, recording</itunes:keywords>
+      <itunes:image href="http://icebox.5by5.tv/images/broadcasts/35/cover.jpg" />
+      <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Famplified%2F25&amp;user_id=danbenjamin" />
+    </item>
+    <item>
+      <title>The Ihnatko Almanac 43: A Giant Chrome Bean</title>
+      <link>http://5by5.tv/ia/43</link>
+      <guid>http://5by5.tv/ia/43</guid>
+      <pubDate>Wed, 26 Sep 2012 16:15:00 GMT</pubDate>
+      <author>Andy Ihnatko &amp; Dan Benjamin</author>
+      <description>This week, Andy and Dan discuss the new iOS 6 Maps application, public transport app alternatives, and travel luggage.
+</description>
+      <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/ia/2012/ia-043.mp3" length="30913881" type="audio/mpeg" />
+      <content:encoded>&lt;p&gt;This week, Andy and Dan discuss the new iOS 6 Maps application, public transport app alternatives, and travel luggage.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.pelican-case.com/1510loc.html" class="link" rel="nofollow" target="_blank"&gt;Pelican 1510LOC Carry-On Laptop Overnight Case - BLACK from Pelican-Case.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://itunes.apple.com/us/app/routesy-free-bay-area-san/id381982120?mt=8&amp;amp;partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A" class="link" rel="nofollow" target="_blank"&gt;Routesy Free Bay Area San Francisco Muni and BART for iPhone, iPod touch, and iPad on the iTunes App Store&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Travelpro/e/2210626011/ref=ep_sprkl_br_2210626011?pf_rd_p=1284628682&amp;amp;pf_rd_s=auto-sparkle&amp;amp;pf_rd_t=301&amp;amp;pf_rd_i=Travelpro&amp;amp;pf_rd_m=ATVPDKIKX0DER&amp;amp;pf_rd_r=0W1C8W16Q1AP4S528R20" class="link" rel="nofollow" target="_blank"&gt;Travelpro: Amazon.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content:encoded>
+      <itunes:author>Andy Ihnatko &amp; Dan Benjamin</itunes:author>
+      <itunes:duration>1:03:45</itunes:duration>
+      <itunes:subtitle>This week, Andy and Dan discuss the new iOS 6 Maps application, public transport app alternatives, and travel luggage.</itunes:subtitle>
+      <itunes:summary>This week, Andy and Dan discuss the new iOS 6 Maps application, public transport app alternatives, and travel luggage.
+</itunes:summary>
+      <itunes:keywords>comics, articles, movies, books, tv, music</itunes:keywords>
+      <itunes:image href="http://icebox.5by5.tv/images/broadcasts/28/cover.jpg" />
+      <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fia%2F43&amp;user_id=danbenjamin" />
+    </item>
+    <item>
+      <title>The Web Ahead 36: Sass with Scott Kellum</title>
+      <link>http://5by5.tv/webahead/36</link>
+      <guid>http://5by5.tv/webahead/36</guid>
+      <pubDate>Wed, 26 Sep 2012 15:15:00 GMT</pubDate>
+      <author>Jen Simmons</author>
+      <description>CSS preprocessors are becoming very popular very quickly. Many front-end developers are finding them invaluable for coding increasingly-complex sites. Scott Kellum joins Jen Simmons to talk about Sass and Compass, what they offer, how to get started, and why you might want to consider adding such tools to your workflow
+</description>
+      <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/webahead/2012/webahead-036.mp3" length="45823113" type="audio/mpeg" />
+      <content:encoded>&lt;p&gt;CSS preprocessors are becoming very popular very quickly. Many front-end developers are finding them invaluable for coding increasingly-complex sites. Scott Kellum joins Jen Simmons to talk about Sass and Compass, what they offer, how to get started, and why you might want to consider adding such tools to your workflow&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://scottkellum.com/" class="link" rel="nofollow" target="_blank"&gt;Scott Kellum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/scottkellum" class="link" rel="nofollow" target="_blank"&gt;Scott Kellum (ScottKellum) on Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/scottkellum" class="link" rel="nofollow" target="_blank"&gt;Scott Kellum (scottkellum) on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://sass-lang.com/" class="link" rel="nofollow" target="_blank"&gt;Sass - Syntactically Awesome Stylesheets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://compass-style.org/" class="link" rel="nofollow" target="_blank"&gt;Compass Home | Compass Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.voxmedia.com/" class="link" rel="nofollow" target="_blank"&gt;Vox Media&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/scottkellum/Singularity" class="link" rel="nofollow" target="_blank"&gt;scottkellum/Singularity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://gridsetapp.com/" class="link" rel="nofollow" target="_blank"&gt;Gridset&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/ericam/susy" class="link" rel="nofollow" target="_blank"&gt;ericam/susy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://susy.oddbird.net/" class="link" rel="nofollow" target="_blank"&gt;Susy: Responsive grids for Compass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bradfrostweb.com/blog/notes/oocss-and-preprocessors-in-a-tree-k-i-s-s-i-n-g-nicole-sullivan-at-smashing-conference/" class="link" rel="nofollow" target="_blank"&gt;OOCSS and Preprocessors in a Tree, K-I-S-S-I-N-G – Nicole Sullivan at Smashing Conference | Brad Frost Web&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/stubbornella/status/235950744644235264" class="link" rel="nofollow" target="_blank"&gt;Twitter / stubbornella: I am loving @ extend in SASS. ...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://thecodingdesigner.com/tutorials" class="link" rel="nofollow" target="_blank"&gt;Tutorials | The Coding Designer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://twitter.com/codingdesigner" class="link" rel="nofollow" target="_blank"&gt;Mason Wendell (codingdesigner) on Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://24ways.org/2006/compose-to-a-vertical-rhythm" class="link" rel="nofollow" target="_blank"&gt;24 ways: Compose to a Vertical Rhythm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://css3pie.com/" class="link" rel="nofollow" target="_blank"&gt;CSS3 PIE: CSS3 decorations for IE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://compass.handlino.com/" class="link" rel="nofollow" target="_blank"&gt;Compass.app: compile Sass/Compass easily without resorting to command line interface&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://singularity.gs/" class="link" rel="nofollow" target="_blank"&gt;Singularity | Grids without limits&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.dontfeartheinternet.com/" class="link" rel="nofollow" target="_blank"&gt;Don’t Fear the Internet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://dev.w3.org/csswg/css-variables/" class="link" rel="nofollow" target="_blank"&gt;CSS Cascading Variables Module Level 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://addons.mozilla.org/en-US/firefox/addon/firesass-for-firebug/" class="link" rel="nofollow" target="_blank"&gt;FireSass for Firebug :: Add-ons for Firefox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://incident57.com/codekit/" class="link" rel="nofollow" target="_blank"&gt;CodeKit — THE Mac App For Web Developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://westciv.com/" class="link" rel="nofollow" target="_blank"&gt;westciv - tools &amp;amp; resources for web professionals&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This week's show sponsored by the &lt;a href="http://incontrolconference.com/"&gt;In Control Conference&lt;/a&gt; and &lt;a href="http://cssdevconf.com"&gt;CSS Dev Conf&lt;/a&gt;. Use coupon code &lt;code&gt;ALOHAAHEAD&lt;/code&gt; for $100 off, good for In Control and In Control Combo packages including workshops and/or CSS Dev Conf.&lt;/p&gt;
+</content:encoded>
+      <itunes:author>Jen Simmons</itunes:author>
+      <itunes:duration>1:35:00</itunes:duration>
+      <itunes:subtitle>Sass and Compass, two tools for writing CSS more easily, are fast becoming very popular. Scott Kellum joins Jen Simmons to talk what they offer and how to get started.</itunes:subtitle>
+      <itunes:summary>CSS preprocessors are becoming very popular very quickly. Many front-end developers are finding them invaluable for coding increasingly-complex sites. Scott Kellum joins Jen Simmons to talk about Sass and Compass, what they offer, how to get started, and why you might want to consider adding such tools to your workflow
+</itunes:summary>
+      <itunes:keywords>web, css, sass, compass, less, workflow, front-end development</itunes:keywords>
+      <itunes:image href="http://icebox.5by5.tv/images/broadcasts/26/cover.jpg" />
+      <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fwebahead%2F36&amp;user_id=danbenjamin" />
+    </item>
+    <item>
+      <title>Systematic 11: Pure Genius With Stephen Hackett</title>
+      <link>http://5by5.tv/systematic/11</link>
+      <guid>http://5by5.tv/systematic/11</guid>
+      <pubDate>Tue, 25 Sep 2012 23:30:00 GMT</pubDate>
+      <author>Brett Terpstra</author>
+      <description>Author, blogger, IT guy and former Apple Lead Genius Stephen Hackett joins Brett to talk about new Apple hardware and share some great software picks.
+</description>
+      <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/systematic/2012/systematic-011.mp3" length="31544165" type="audio/mpeg" />
+      <content:encoded>&lt;p&gt;Author, blogger, IT guy and former Apple Lead Genius Stephen Hackett joins Brett to talk about new Apple hardware and share some great software picks.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://alpha.app.net/ismh" class="link" rel="nofollow" target="_blank"&gt;ismh on App.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/ismh" class="link" rel="nofollow" target="_blank"&gt;Stephen Hackett (ismh) on Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://512pixels.net/" class="link" rel="nofollow" target="_blank"&gt;512 Pixels (dot NET)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://geniusmemoirs.com/" class="link" rel="nofollow" target="_blank"&gt;Bartending: Memoirs of an Apple Genius | An E-book by Stephen Hackett&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.clarify-it.com/" class="link" rel="nofollow" target="_blank"&gt;Clarify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://itunes.apple.com/us/app/poster-wordpress-blog-editor/id549006481?partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&amp;amp;partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&amp;amp;partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&amp;amp;partnerId=30&amp;amp;siteI" class="link" rel="nofollow" target="_blank"&gt;Poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://itunes.apple.com/us/app/pro-metronome-beats-sounds/id477960671?partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&amp;amp;partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&amp;amp;partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&amp;amp;partnerId=30&amp;amp;siteID=" class="link" rel="nofollow" target="_blank"&gt;Pro Metronome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://get.gaug.es/" class="link" rel="nofollow" target="_blank"&gt;Gauges&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://fuelcollective.com/permute" class="link" rel="nofollow" target="_blank"&gt;Permute&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://gfx.io/" class="link" rel="nofollow" target="_blank"&gt;gfxCardStatus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://onethingwell.org/" class="link" rel="nofollow" target="_blank"&gt;One Thing Well&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This episode is brought to you by &lt;a href="http://getHarvest.com/5by5"&gt;Harvest&lt;/a&gt; (coupon &lt;strong&gt;5BY5&lt;/strong&gt;), &lt;a href="http://gazelle.com"&gt;Gazelle&lt;/a&gt; and &lt;a href="http://mailchimp.com/5by5"&gt;MailChimp&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+      <itunes:author>Brett Terpstra</itunes:author>
+      <itunes:duration>1:04:59</itunes:duration>
+      <itunes:subtitle>Author, blogger, IT guy and former Apple Lead Genius Stephen Hackett</itunes:subtitle>
+      <itunes:summary>Author, blogger, IT guy and former Apple Lead Genius Stephen Hackett joins Brett to talk about new Apple hardware and share some great software picks.
+</itunes:summary>
+      <itunes:keywords>productivity, work, creativity, mac, iOS</itunes:keywords>
+      <itunes:image href="http://icebox.5by5.tv/images/broadcasts/39/cover.jpg" />
+      <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fsystematic%2F11&amp;user_id=danbenjamin" />
+    </item>
+    <item>
+      <title>Back to Work 86: The Talmud of Claremont</title>
+      <link>http://5by5.tv/b2w/86</link>
+      <guid>http://5by5.tv/b2w/86</guid>
+      <pubDate>Tue, 25 Sep 2012 18:15:00 GMT</pubDate>
+      <author>Merlin Mann &amp; Dan Benjamin</author>
+      <description>TOPIC: Anxious about the Change
+
+This week Merlin updates Dan about his schedule changes. They're going to come, but it's probably the anxiety, not the change, that is the problem. Take heart, it may be the change that you need.
+
+While you're at it, take the opportunity to plan your buffers and ramp up times. Your schedule will work better, your vacation may be less stressful, your pie will stay alive.
+
+Bonus: Dan and Merlin's comic book recommendations for new readers.
+</description>
+      <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/b2w/2012/b2w-086.mp3" length="49492384" type="audio/mpeg" />
+      <content:encoded>&lt;p&gt;&lt;strong&gt;TOPIC:&lt;/strong&gt; Anxious about the Change&lt;/p&gt;
+
+&lt;p&gt;This week Merlin updates Dan about his schedule changes. They're going to come, but it's probably the anxiety, not the change, that is the problem. Take heart, it may be the change that you need.&lt;/p&gt;
+
+&lt;p&gt;While you're at it, take the opportunity to plan your buffers and ramp up times. Your schedule will work better, your vacation may be less stressful, your pie will stay alive.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bonus&lt;/strong&gt;: Dan and Merlin's comic book recommendations for new readers.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.shutterstock.com/" class="link" rel="nofollow" target="_blank"&gt;[SPONSOR] Shutterstock &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://backtowork.igloocommunities.com/" class="link" rel="nofollow" target="_blank"&gt;[SPONSOR] Igloo Software (Check out the amazing &amp;quot;Back to Work&amp;quot; community)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.squarespace.com/backtowork" class="link" rel="nofollow" target="_blank"&gt;[SPONSOR] Squarespace (10% off with offer code, &amp;quot;&lt;code&gt;dingus&lt;/code&gt;&amp;quot;) &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://service.squarespace.com/" class="link" rel="nofollow" target="_blank"&gt;Squarespace Service Updates - Service Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://developers.squarespace.com/" class="link" rel="nofollow" target="_blank"&gt;Squarespace Developer Center&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://backtowork.igloocommunities.com/" class="link" rel="nofollow" target="_blank"&gt;Home - Back to Work&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://backtowork.igloocommunities.com/wiki" class="link" rel="nofollow" target="_blank"&gt;Wiki - Back to Work&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.kungfugrippe.com/post/32248429078/a-little-background" class="link" rel="nofollow" target="_blank"&gt;kung fu grippe • Just in terms of a little background. Catching...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://rsmallbone.tumblr.com/post/32223087942/on-pooping-in-public-bathrooms" class="link" rel="nofollow" target="_blank"&gt;Now, don't take this the wrong way...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.thisamericanlife.org/radio-archives/episode/474/back-to-school" class="link" rel="nofollow" target="_blank"&gt;Back to School | This American Life&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.nytimes.com/2011/09/18/magazine/what-if-the-secret-to-success-is-failure.html?pagewanted=all&amp;amp;_moc.semityn.www" class="link" rel="nofollow" target="_blank"&gt;What if the Secret to Success Is Failure? - NYTimes.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.macdrifter.com/2012/09/feedburner-reader-and-googles-priorities.html" class="link" rel="nofollow" target="_blank"&gt;Feedburner, Reader and Google's Priorities&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.comicbookdb.com/" class="link" rel="nofollow" target="_blank"&gt;Comic Book DB - The Comic Book Database&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.kungfugrippe.com/post/32221049940/grit" class="link" rel="nofollow" target="_blank"&gt;kung fu grippe • [MP3] Back to School | This American Life ...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/pablosquirrel/statuses/250486002752315392" class="link" rel="nofollow" target="_blank"&gt;Twitter / pablosquirrel: @hotdogsladies @danbenjamin ...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/High-fructose_corn_syrup" class="link" rel="nofollow" target="_blank"&gt;High-fructose corn syrup - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://brianmichaelbendis.tumblr.com/" class="link" rel="nofollow" target="_blank"&gt;BENDIS!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/exec/obidos/ASIN/0785115315/5by5-20" class="link" rel="nofollow" target="_blank"&gt;Astonishing X-Men Vol. 1: Gifted: Joss Whedon,John Cassaday: 9780785115311: Amazon.com: Books&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.comixology.com/Astonishing-X-Men-Vol-1-Gifted/digital-comic/OCT041800" class="link" rel="nofollow" target="_blank"&gt;Astonishing X-Men Vol. 1: Gifted - Comics by comiXology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://merlinm.com/s6/" class="link" rel="nofollow" target="_blank"&gt;Merlin’s Squarespace 6 Blog — Merlin Mann&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.iflicksapp.com/" class="link" rel="nofollow" target="_blank"&gt;Manage your Video Collection with iTunes | iFlicks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://thetvdb.com/" class="link" rel="nofollow" target="_blank"&gt;Online TV Database - An open directory of television shows for HTPC software&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.themoviedb.org/" class="link" rel="nofollow" target="_blank"&gt;TMDb — The Movie Database&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.psychologytoday.com/blog/freedom-learn/201209/children-s-freedom-has-declined-so-has-their-creativity" class="link" rel="nofollow" target="_blank"&gt;As Children’s Freedom Has Declined, So Has Their Creativity | Psychology Today&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://iflicksapp.com/" class="link" rel="nofollow" target="_blank"&gt;Manage your Video Collection with iTunes | iFlicks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.paulgraham.com/makersschedule.html" class="link" rel="nofollow" target="_blank"&gt;Maker's Schedule, Manager's Schedule&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/exec/obidos/ASIN/1401229743/5by5-20" class="link" rel="nofollow" target="_blank"&gt;American Vampire Vol. 1: Scott Snyder,Stephen King,Rafael Albuquereque: 9781401229740: Amazon.com: Books&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/exec/obidos/ASIN/1401230709/5by5-20" class="link" rel="nofollow" target="_blank"&gt;American Vampire Vol. 2: Scott Snyder,Rafael Albuquereque: 9781401230708: Amazon.com: Books&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/exec/obidos/ASIN/1401233333/5by5-20" class="link" rel="nofollow" target="_blank"&gt;American Vampire Vol. 3: Scott Snyder,Rafael Albuquereque: 9781401233334: Amazon.com: Books&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/exec/obidos/ASIN/1401237185/5by5-20" class="link" rel="nofollow" target="_blank"&gt;American Vampire Vol. 4: Scott Snyder,Rafael Albuquereque: 9781401237189: Amazon.com: Books&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Scott_Snyder" class="link" rel="nofollow" target="_blank"&gt;Scott Snyder - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://backtowork.igloocommunities.com/teams/jackals/discussions/nominatetheonecomicforanewcomicnerd" class="link" rel="nofollow" target="_blank"&gt;Nominate the ONE comic for a new comic nerd. - Back to Work&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/hotdogsladies/status/246322136921284608" class="link" rel="nofollow" target="_blank"&gt;Twitter / hotdogsladies: Just for reference, the connector ...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.imdb.com/title/tt0080801/combined" class="link" rel="nofollow" target="_blank"&gt;The Gods Must Be Crazy (1980)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.imdb.com/title/tt0080487/quotes" class="link" rel="nofollow" target="_blank"&gt;Caddyshack (1980) - Memorable quotes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=zbQTXFJL8lo" class="link" rel="nofollow" target="_blank"&gt;CaddyShack Cinderella Story - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://binarybonsai.com/" class="link" rel="nofollow" target="_blank"&gt;Binary Bonsai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://musicbrainz.org/doc/MusicBrainz_Picard" class="link" rel="nofollow" target="_blank"&gt;MusicBrainz Picard - MusicBrainz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://musicbrainz.org/" class="link" rel="nofollow" target="_blank"&gt;MusicBrainz - The Open Music Encyclopedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.awayfind.com/" class="link" rel="nofollow" target="_blank"&gt;AwayFind - Mobile notifications for priority messages. The email management solution for Gmail and Exchange.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://musicbrainz.org/artist/6c85f4c3-026c-4c16-9a7c-f546f42ed0fb" class="link" rel="nofollow" target="_blank"&gt;Guided by Voices - MusicBrainz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/gshellen/status/250292230718373889" class="link" rel="nofollow" target="_blank"&gt;Grant Shellen: &amp;quot;It's not a successful @hotdogsladies encounter unless you walk away with an inflammatory index card: instagr.am/p/P95M-7HR74/ &amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/exec/obidos/ASIN/B000FQBPCQ/5by5-20" class="link" rel="nofollow" target="_blank"&gt;Amazon.com: The Legend of Zelda: Twilight Princess: Nintendo Wii: Video Games&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.hihowareyou.com/music" class="link" rel="nofollow" target="_blank"&gt;Discography - Hi, How Are You?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Steenbeck" class="link" rel="nofollow" target="_blank"&gt;Steenbeck - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This week's episode of Back to Work is sponsored by &lt;a href="http://backtowork.igloocommunities.com"&gt;Igloo Software&lt;/a&gt;, &lt;a href="http://www.shutterstock.com/"&gt;Shutterstock&lt;/a&gt; and &lt;a href="http://squarespace.com/backtowork"&gt;Squarespace&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+      <itunes:author>Merlin Mann &amp; Dan Benjamin</itunes:author>
+      <itunes:duration>1:42:31</itunes:duration>
+      <itunes:subtitle>TOPIC: Anxious about the Change</itunes:subtitle>
+      <itunes:summary>TOPIC: Anxious about the Change
+
+This week Merlin updates Dan about his schedule changes. They're going to come, but it's probably the anxiety, not the change, that is the problem. Take heart, it may be the change that you need.
+
+While you're at it, take the opportunity to plan your buffers and ramp up times. Your schedule will work better, your vacation may be less stressful, your pie will stay alive.
+
+Bonus: Dan and Merlin's comic book recommendations for new readers.
+</itunes:summary>
+      <itunes:keywords>productivity, communication, work, barriers, constraints, tools</itunes:keywords>
+      <itunes:image href="http://icebox.5by5.tv/images/broadcasts/19/cover.jpg" />
+      <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fb2w%2F86&amp;user_id=danbenjamin" />
+    </item>
+    <item>
+      <title>Build and Analyze 96: Sandwich With A Slot</title>
+      <link>http://5by5.tv/buildanalyze/96</link>
+      <guid>http://5by5.tv/buildanalyze/96</guid>
+      <pubDate>Mon, 24 Sep 2012 16:45:00 GMT</pubDate>
+      <author>Marco Arment &amp; Dan Benjamin</author>
+      <description>Dan and Marco discuss initial impressions of the iPhone 5, rapid iOS 6 adoption and when it may be safe to require it, Feedburner's demise, B.S. in Computer Science degrees versus related degrees with lower math and theory requirements, and the economics of limited-edition apps.
+</description>
+      <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/buildanalyze/2012/buildanalyze-096.mp3" length="35213432" type="audio/mpeg" />
+      <content:encoded>&lt;p&gt;Dan and Marco discuss initial impressions of the iPhone 5, rapid iOS 6 adoption and when it may be safe to require it, Feedburner's demise, B.S. in Computer Science degrees versus related degrees with lower math and theory requirements, and the economics of limited-edition apps.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://david-smith.org/iosversionstats/" class="link" rel="nofollow" target="_blank"&gt;iOS Version Stats - David Smith&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.theverge.com/2012/9/21/3367602/iphone-5-lte-markets-cities" class="link" rel="nofollow" target="_blank"&gt;Here's where to get LTE on your iPhone 5 | The Verge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.macrumors.com/2012/09/21/verizon-iphone-5-confirmed-to-be-unlocked-on-gsm-3g-networks/" class="link" rel="nofollow" target="_blank"&gt;Verizon iPhone 5 Confirmed to Be Unlocked on GSM 3G Networks - Mac Rumors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://allthingsd.com/20120921/iphone-5-a-hit-based-on-key-line-length-metric/" class="link" rel="nofollow" target="_blank"&gt;Longer Lines Outside Apple Stores Show iPhone 5 Is a Hit - John Paczkowski - Mobile - AllThingsD&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sponsored by &lt;a href="http://igloosoftware.com/5by5"&gt;Igloo Software&lt;/a&gt;, &lt;a href="http://getharvest.com/5by5"&gt;Harvest&lt;/a&gt; (use code 5by5 for 50% off first month), &lt;a href="http://gazelle.com/"&gt;Gazelle&lt;/a&gt;, and &lt;a href="http://mailchimp.com/5by5"&gt;MailChimp&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+      <itunes:author>Marco Arment &amp; Dan Benjamin</itunes:author>
+      <itunes:duration>1:12:47</itunes:duration>
+      <itunes:subtitle>Dan and Marco discuss initial impressions of the iPhone 5, rapid iOS 6 adoption and when it may be safe to require it, Feedburner's demise, B.S. in Computer Science degrees versus related degrees, and the economics of limited-edition apps.</itunes:subtitle>
+      <itunes:summary>Dan and Marco discuss initial impressions of the iPhone 5, rapid iOS 6 adoption and when it may be safe to require it, Feedburner's demise, B.S. in Computer Science degrees versus related degrees with lower math and theory requirements, and the economics of limited-edition apps.
+</itunes:summary>
+      <itunes:keywords>iphone, ipad, ios, android, mobile, web, development, apple</itunes:keywords>
+      <itunes:image href="http://icebox.5by5.tv/images/broadcasts/14/cover.jpg" />
+      <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fbuildanalyze%2F96&amp;user_id=danbenjamin" />
+    </item>
+    <item>
+      <title>Mac Power Users 104: Using iOS 6</title>
+      <link>http://5by5.tv/mpu/104</link>
+      <guid>http://5by5.tv/mpu/104</guid>
+      <pubDate>Mon, 24 Sep 2012 01:45:00 GMT</pubDate>
+      <author>David Sparks &amp; Katie Floyd</author>
+      <description>Katie and David cover getting the most out of the new iOS 6 operating system.
+</description>
+      <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/mpu/2012/mpu-104.mp3" length="39857971" type="audio/mpeg" />
+      <content:encoded>&lt;p&gt;Katie and David cover getting the most out of the new iOS 6 operating system.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.apple.com/ios/whats-new/" class="link" rel="nofollow" target="_blank"&gt;iOS 6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://shawnblanc.net/2012/09/ios-6/" class="link" rel="nofollow" target="_blank"&gt;iOS 6 and Every-Day Life&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.apple.com/ios/siri/" class="link" rel="nofollow" target="_blank"&gt;Siri and iOS 6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://support.apple.com/kb/HT5449?viewlocale=en_US&amp;amp;locale=en_US" class="link" rel="nofollow" target="_blank"&gt;Mac 101: Dictation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.tuaw.com/2012/09/14/what-can-you-say-to-siri-in-ios-6/" class="link" rel="nofollow" target="_blank"&gt;TUAW: What Can You Say To Siri in iOS 6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.macobserver.com/tmo/article/apple-server-outage-disrupts-ios-6-wi-fi-connections" class="link" rel="nofollow" target="_blank"&gt;Apple Server Outage Disrupts iOS 6 Wi-Fi Connections&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://allthingsd.com/20120920/usage-of-apples-ios-6-hits-staggering-levels-on-first-day-of-availability/" class="link" rel="nofollow" target="_blank"&gt;Usage of Apple’s iOS 6 Hits Staggering Levels on First Day of Availability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.macobserver.com/tmo/article/apple-updates-iphoto-imovie-and-garageband-for-ios" class="link" rel="nofollow" target="_blank"&gt;Apple Updates iPhoto, iMovie, and GarageBand for iOS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.macworld.com/article/2010181/hands-on-with-ios-6-settings.html" class="link" rel="nofollow" target="_blank"&gt;Hands on with iOS 6: Settings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.instapaper.com" class="link" rel="nofollow" target="_blank"&gt;Instapaper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.macworld.com/article/2010104/hands-on-with-updated-find-my-friends-and-find-my-iphone.html" class="link" rel="nofollow" target="_blank"&gt;Hands on with updated Find My Friends and Find My iPhone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.macworld.com/article/2010065/review-refined-ios-6-highlighted-by-stunning-maps-overhaul.html" class="link" rel="nofollow" target="_blank"&gt;Review: Refined iOS 6 highlighted by stunning Maps overhaul&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.apple.com/ios/maps/" class="link" rel="nofollow" target="_blank"&gt;iOS 6 Maps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.loopinsight.com/2012/09/20/apple-responds-to-maps-criticism/" class="link" rel="nofollow" target="_blank"&gt;Apple responds to Maps criticism&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.chadwickwill.com/post/31894540460/ios-6-features-i-didnt-know-about" class="link" rel="nofollow" target="_blank"&gt;http://blog.chadwickwill.com/post/31894540460/ios-6-features-i-didnt-know-about&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.techhive.com/article/2010370/why-maps-matter-to-apple-google-and-others.html" class="link" rel="nofollow" target="_blank"&gt;Tech Hive: Why Maps Matter to Apple, Google and Others&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=QzJnWc6KFTc&amp;amp;feature=plcp" class="link" rel="nofollow" target="_blank"&gt;Adding Google Maps Back to iOS 6&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Please support our sponsors:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Fujitsu ScanSnap
+&lt;a href="http://www.ez.com/ssmpu"&gt; ScanSnap: Your productive, mobile, efficient, paperless life starts here!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Gazelle
+&lt;a href="http://www.gazelle.com/?utm_campaign=macpowerusers-podcast&amp;utm_source=macpowerusers&amp;utm_medium=podcast&amp;utm_content=text"&gt; Get cash for your used iPhone, iPad, MacBook and other Apple products. What’s your gadget worth?&lt;/p&gt;
+
+&lt;p&gt;The Omni Group
+&lt;a href="http://www.omnigroup.com/powerusers"&gt;We're passionate about productivity for Mac, iPhone and iPad&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+      <itunes:author>David Sparks &amp; Katie Floyd</itunes:author>
+      <itunes:duration>1:22:27</itunes:duration>
+      <itunes:subtitle>Katie and David cover getting the most out of the new iOS 6 operating system.</itunes:subtitle>
+      <itunes:summary>Katie and David cover getting the most out of the new iOS 6 operating system.
+</itunes:summary>
+      <itunes:keywords>mac, apple, power user, productivity, workflows</itunes:keywords>
+      <itunes:image href="http://icebox.5by5.tv/images/broadcasts/25/cover.jpg" />
+      <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fmpu%2F104&amp;user_id=danbenjamin" />
+    </item>
+    <item>
+      <title>Screen Time 6: The New Version of Hollywood</title>
+      <link>http://5by5.tv/screentime/6</link>
+      <guid>http://5by5.tv/screentime/6</guid>
+      <pubDate>Sun, 23 Sep 2012 16:45:00 GMT</pubDate>
+      <author>Moisés Chiullan</author>
+      <description>Moisés talks about the movie business with producer Keith Calder (You're Next, The Greatest Movie Ever Sold). They discuss the film business as a whole, from distribution and content to how movies are rapidly becoming more of a digital medium than film-based. From innovative new distribution options to piracy to major studio tentpoles with no soul, they leave no part of the business untouched.
+</description>
+      <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/screentime/2012/screentime-006.mp3" length="44683783" type="audio/mpeg" />
+      <content:encoded>&lt;p&gt;Moisés talks about the movie business with producer Keith Calder (You're Next, The Greatest Movie Ever Sold). They discuss the film business as a whole, from distribution and content to how movies are rapidly becoming more of a digital medium than film-based. From innovative new distribution options to piracy to major studio tentpoles with no soul, they leave no part of the business untouched.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=IHfSBZOgDaI" class="link" rel="nofollow" target="_blank"&gt;All the Boys Love Mandy Lane trailer | YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=2wbkqc5SaB0" class="link" rel="nofollow" target="_blank"&gt;The Wackness trailer | YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://keithcalder.com" class="link" rel="nofollow" target="_blank"&gt;Keith Calder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=T4Ng2P3zxfM" class="link" rel="nofollow" target="_blank"&gt;POM Wonderful Presents: The Greatest Movie Ever Sold trailer | YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=Wd9bGXfmIh8" class="link" rel="nofollow" target="_blank"&gt;Battle for Terra trailer | YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=Att6tLpHbHA" class="link" rel="nofollow" target="_blank"&gt;Peep World trailer | YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=3WmLLWIHXXU" class="link" rel="nofollow" target="_blank"&gt;Undocumented | YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.vhx.tv" class="link" rel="nofollow" target="_blank"&gt;VHX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://buy.louisck.net/purchase/live-at-the-beacon-theater" class="link" rel="nofollow" target="_blank"&gt;Louis CK: Live at the Beacon Theater&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://azizansari.com/preview" class="link" rel="nofollow" target="_blank"&gt;Aziz Ansari: Dangerously Delicious&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://buy.indiegamethemovie.com" class="link" rel="nofollow" target="_blank"&gt;Indie Game: The Movie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.kickstarter.com/projects/thethiefdocumentary/documentary-on-lost-animated-masterpiece-the-thief-0" class="link" rel="nofollow" target="_blank"&gt;&amp;quot;Thief and the Cobbler&amp;quot; Documentary | Kickstarter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=hsdvhJTqLak" class="link" rel="nofollow" target="_blank"&gt;The Graduate trailer | YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=IDF0at7sC0M" class="link" rel="nofollow" target="_blank"&gt;Lawrence of Arabia trailer | YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://movies.netflix.com/WiMovie/Seven_Up_7_Plus_Seven/70012577?locale=en-US" class="link" rel="nofollow" target="_blank"&gt;Seven Up &amp;amp; 7 Plus Seven (and the Up Series) | Netflix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://twitter.com/keithcalder" class="link" rel="nofollow" target="_blank"&gt;Keith Calder on Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sponsored by &lt;a href="http://teamtreehouse.com/join/5by5"&gt;Treehouse&lt;/a&gt;, &lt;a href="http://gazelle.com"&gt;Gazelle&lt;/a&gt;, &lt;a href="http://hover.com/dansentme"&gt;Hover.com&lt;/a&gt; (coupon code DANSENTME for 10% off), and &lt;a href="http://squarespace.com/5by5"&gt;Squarespace.com&lt;/a&gt; (coupon code BIGTACO for 10% off).&lt;/p&gt;
+</content:encoded>
+      <itunes:author>Moisés Chiullan</itunes:author>
+      <itunes:duration>1:32:23</itunes:duration>
+      <itunes:subtitle>Moisés talks about the movie business with producer Keith Calder (You're Next, The Greatest Movie Ever Sold), covering distribution and content and how movies are rapidly becoming a more digital medium</itunes:subtitle>
+      <itunes:summary>Moisés talks about the movie business with producer Keith Calder (You're Next, The Greatest Movie Ever Sold). They discuss the film business as a whole, from distribution and content to how movies are rapidly becoming more of a digital medium than film-based. From innovative new distribution options to piracy to major studio tentpoles with no soul, they leave no part of the business untouched.
+</itunes:summary>
+      <itunes:keywords>movies, TV, media, games, HD, entertainment</itunes:keywords>
+      <itunes:image href="http://icebox.5by5.tv/images/broadcasts/40/cover.jpg" />
+      <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fscreentime%2F6&amp;user_id=danbenjamin" />
+    </item>
+    <item>
+      <title>The Critical Path 55: Gravity Well</title>
+      <link>http://5by5.tv/criticalpath/55</link>
+      <guid>http://5by5.tv/criticalpath/55</guid>
+      <pubDate>Sat, 22 Sep 2012 00:45:00 GMT</pubDate>
+      <author>Horace Dediu &amp; Dan Benjamin</author>
+      <description>Horace and Moisés discuss the early consumer response to iOS 6 (Maps in particular), and how people appear to greatly prefer native apps to their web app counterparts. They also dig into just how large an opportunity cost Apple is capable of absorbing in the interest of protecting their platform. In doing so, they examine the native app vs. HTML5 debate.
+</description>
+      <enclosure url="http://d.ahoy.co/redirect.mp3/fly.5by5.tv/audio/broadcasts/criticalpath/2012/criticalpath-055.mp3" length="35545769" type="audio/mpeg" />
+      <content:encoded>&lt;p&gt;Horace and Moisés discuss the early consumer response to iOS 6 (Maps in particular), and how people appear to greatly prefer native apps to their web app counterparts. They also dig into just how large an opportunity cost Apple is capable of absorbing in the interest of protecting their platform. In doing so, they examine the native app vs. HTML5 debate.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.asymco.com/2011/10/05/why-is-there-no-iphone-5/" class="link" rel="nofollow" target="_blank"&gt;Why is there no iPhone 5? | Asycmo (Oct 2011)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sponsored by &lt;a href="http://teamtreehouse.com/join/5by5"&gt;Treehouse&lt;/a&gt;, &lt;a href="http://gazelle.com"&gt;Gazelle&lt;/a&gt;, &lt;a href="http://hover.com/dansentme"&gt;Hover.com&lt;/a&gt; (coupon code DANSENTME for 10% off), and &lt;a href="http://squarespace.com/5by5"&gt;Squarespace.com&lt;/a&gt; (coupon code DANSENTME9 for 10% off).&lt;/p&gt;
+</content:encoded>
+      <itunes:author>Horace Dediu &amp; Dan Benjamin</itunes:author>
+      <itunes:duration>1:13:20</itunes:duration>
+      <itunes:subtitle>Horace and Moisés discuss the early consumer response to iOS 6, Apple's protection of its platform, and how the company has built an annual upgrade strategy in the US.</itunes:subtitle>
+      <itunes:summary>Horace and Moisés discuss the early consumer response to iOS 6 (Maps in particular), and how people appear to greatly prefer native apps to their web app counterparts. They also dig into just how large an opportunity cost Apple is capable of absorbing in the interest of protecting their platform. In doing so, they examine the native app vs. HTML5 debate.
+</itunes:summary>
+      <itunes:keywords>mobile, apple, iphone, ipad, ios, rim, blackberry, nokia, android, google</itunes:keywords>
+      <itunes:image href="http://icebox.5by5.tv/images/broadcasts/24/cover.jpg" />
+      <atom:link rel="payment" type="text/html" href="https://flattr.com/submit/auto?url=http%3A%2F%2F5by5.tv%2Fcriticalpath%2F55&amp;user_id=danbenjamin" />
+    </item>
+  </channel>
+</rss>
